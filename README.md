@@ -1,1 +1,1 @@
-# spring-mvc-quickstart-archetype
+# Spring MVC 4 Quickstart Maven Archetype

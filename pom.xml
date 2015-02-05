@@ -29,5 +29,5 @@
     </pluginManagement>
   </build>
 
-  <url>http://maven.apache.org</url>
+  <url>https://github.com/jgfanng/spring-mvc-quickstart-archetype</url>
 </project>
