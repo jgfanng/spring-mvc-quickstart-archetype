@@ -19,7 +19,7 @@ mvn clean install
 Run maven command:
 ```
 mvn archetype:generate \
-    -DarchetypeGroupId=me.jgfanng \
+    -DarchetypeGroupId=com.jgfanng \
     -DarchetypeArtifactId=spring-mvc-quickstart-archetype \
     -DarchetypeVersion=1.0.0 \
     -DgroupId=my.groupid \
@@ -31,7 +31,7 @@ mvn archetype:generate \
 
 For example:
 ```
-mvn archetype:generate -DarchetypeGroupId=me.jgfanng -DarchetypeArtifactedId=spring-mvc-quickstart-archetype -DarchetypeVersion=1.0.0 -DgroupId=me.jgfanng -DartifactId=spring-mvc-hello-world -Dversion=0.0.1-SNAPSHOT -Dpackage=me.jgfanng.controller -DarchetypeCatalog=local
+mvn archetype:generate -DarchetypeGroupId=com.jgfanng -DarchetypeArtifactedId=spring-mvc-quickstart-archetype -DarchetypeVersion=1.0.0 -DgroupId=com.jgfanng -DartifactId=spring-mvc-hello-world -Dversion=0.0.1-SNAPSHOT -Dpackage=com.jgfanng.controller -DarchetypeCatalog=local
 ```
 The folder structure will be like this:
 ```
