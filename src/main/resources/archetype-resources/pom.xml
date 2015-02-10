@@ -6,7 +6,6 @@
   <packaging>war</packaging>
   <version>${version}</version>
   <name>${artifactId}</name>
-  <url>https://github.com/jgfanng/spring-mvc-quickstart-archetype</url>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
